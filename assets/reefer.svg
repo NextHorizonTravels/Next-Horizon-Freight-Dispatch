@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Reefer refrigerated truck</title>
+  <desc id="desc">A refrigerated semi trailer with a cooling unit on the front.</desc>
+  <rect width="900" height="560" fill="#edf7fb"/>
+  <rect y="390" width="900" height="170" fill="#b8c2ca"/>
+  <rect x="245" y="160" width="515" height="190" rx="10" fill="#ffffff" stroke="#6d8191" stroke-width="8"/>
+  <rect x="255" y="178" width="70" height="155" rx="8" fill="#d8ecf8" stroke="#6d8191" stroke-width="6"/>
+  <circle cx="290" cy="225" r="22" fill="none" stroke="#0f6aa6" stroke-width="8"/>
+  <path d="M290 203v44M268 225h44" stroke="#0f6aa6" stroke-width="7"/>
+  <path d="M356 205h340M356 250h340M356 295h340" stroke="#d4e2ea" stroke-width="8"/>
+  <rect x="110" y="224" width="168" height="126" rx="16" fill="#1f7a61"/>
+  <path d="M110 350h186l-28-95c-7-22-26-37-49-37H110z" fill="#1f7a61"/>
+  <path d="M145 238h66c19 0 34 12 40 30l13 42H145z" fill="#dff4ef"/>
+  <rect x="101" y="335" width="672" height="34" fill="#234966"/>
+  <circle cx="182" cy="382" r="42" fill="#1a2630"/>
+  <circle cx="182" cy="382" r="20" fill="#dfe7ed"/>
+  <circle cx="590" cy="382" r="42" fill="#1a2630"/>
+  <circle cx="590" cy="382" r="20" fill="#dfe7ed"/>
+  <circle cx="700" cy="382" r="42" fill="#1a2630"/>
+  <circle cx="700" cy="382" r="20" fill="#dfe7ed"/>
+  <text x="450" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#102033">Reefer</text>
+</svg>

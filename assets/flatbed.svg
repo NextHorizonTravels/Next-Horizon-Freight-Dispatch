@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Flatbed truck</title>
+  <desc id="desc">A semi tractor pulling an open flatbed trailer with cargo.</desc>
+  <rect width="900" height="560" fill="#edf2f4"/>
+  <rect y="390" width="900" height="170" fill="#b8c2ca"/>
+  <rect x="300" y="275" width="460" height="32" rx="6" fill="#3d4b55"/>
+  <rect x="335" y="200" width="120" height="75" fill="#c9892c"/>
+  <rect x="480" y="180" width="95" height="95" fill="#b46c35"/>
+  <rect x="600" y="215" width="105" height="60" fill="#d4a447"/>
+  <path d="M335 200h120M480 180h95M600 215h105" stroke="#7a4b24" stroke-width="7"/>
+  <rect x="115" y="224" width="170" height="126" rx="16" fill="#0f6aa6"/>
+  <path d="M115 350h187l-29-96c-7-22-26-37-49-37H115z" fill="#0f6aa6"/>
+  <path d="M150 238h67c19 0 34 12 40 30l13 42H150z" fill="#d9edf8"/>
+  <rect x="106" y="335" width="672" height="34" fill="#234966"/>
+  <circle cx="188" cy="382" r="42" fill="#1a2630"/>
+  <circle cx="188" cy="382" r="20" fill="#dfe7ed"/>
+  <circle cx="578" cy="382" r="42" fill="#1a2630"/>
+  <circle cx="578" cy="382" r="20" fill="#dfe7ed"/>
+  <circle cx="692" cy="382" r="42" fill="#1a2630"/>
+  <circle cx="692" cy="382" r="20" fill="#dfe7ed"/>
+  <text x="450" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#102033">Flatbed</text>
+</svg>

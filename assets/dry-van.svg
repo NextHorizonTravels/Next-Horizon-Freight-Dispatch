@@ -1,1 +1,20 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Dry van semi truck</title>
+  <desc id="desc">A semi tractor pulling an enclosed dry van trailer.</desc>
+  <rect width="900" height="560" fill="#eaf1f6"/>
+  <rect y="390" width="900" height="170" fill="#b8c2ca"/>
+  <rect x="250" y="160" width="510" height="190" rx="10" fill="#f8fbfd" stroke="#7b8b99" stroke-width="8"/>
+  <rect x="275" y="188" width="455" height="120" fill="#ffffff" stroke="#d7e0e7" stroke-width="5"/>
+  <rect x="112" y="223" width="170" height="127" rx="16" fill="#0f6aa6"/>
+  <path d="M112 350h185l-28-95c-7-22-26-37-49-37h-108z" fill="#0f6aa6"/>
+  <path d="M145 238h66c19 0 34 12 40 30l13 42H145z" fill="#d9edf8"/>
+  <rect x="103" y="335" width="670" height="34" fill="#234966"/>
+  <circle cx="182" cy="382" r="42" fill="#1a2630"/>
+  <circle cx="182" cy="382" r="20" fill="#dfe7ed"/>
+  <circle cx="590" cy="382" r="42" fill="#1a2630"/>
+  <circle cx="590" cy="382" r="20" fill="#dfe7ed"/>
+  <circle cx="700" cy="382" r="42" fill="#1a2630"/>
+  <circle cx="700" cy="382" r="20" fill="#dfe7ed"/>
+  <rect x="280" y="330" width="455" height="10" fill="#f4a51c"/>
+  <text x="450" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#102033">Dry Van</text>
+</svg>

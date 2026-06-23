@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Fleet of trucks</title>
+  <desc id="desc">Multiple commercial trucks lined up for fleet operations.</desc>
+  <rect width="900" height="560" fill="#edf3f7"/>
+  <rect y="390" width="900" height="170" fill="#b8c2ca"/>
+  <rect x="120" y="230" width="220" height="105" rx="12" fill="#0f6aa6"/>
+  <path d="M120 335h242l-24-70c-6-17-22-29-40-29H120z" fill="#0f6aa6"/>
+  <rect x="385" y="190" width="330" height="145" rx="10" fill="#ffffff" stroke="#7b8b99" stroke-width="7"/>
+  <rect x="365" y="265" width="105" height="70" rx="10" fill="#1f7a61"/>
+  <rect x="85" y="325" width="665" height="34" fill="#234966"/>
+  <circle cx="190" cy="374" r="40" fill="#1a2630"/>
+  <circle cx="190" cy="374" r="18" fill="#dfe7ed"/>
+  <circle cx="315" cy="374" r="40" fill="#1a2630"/>
+  <circle cx="315" cy="374" r="18" fill="#dfe7ed"/>
+  <circle cx="520" cy="374" r="40" fill="#1a2630"/>
+  <circle cx="520" cy="374" r="18" fill="#dfe7ed"/>
+  <circle cx="655" cy="374" r="40" fill="#1a2630"/>
+  <circle cx="655" cy="374" r="18" fill="#dfe7ed"/>
+  <path d="M155 245h90c19 0 35 12 41 30l10 32H155zM395 278h58v40h-58z" fill="#d9edf8"/>
+  <text x="450" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#102033">Fleet Support</text>
+</svg>
