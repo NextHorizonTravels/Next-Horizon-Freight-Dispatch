@@ -370,7 +370,8 @@ h3 {
 .service-item img {
   width: 150px;
   height: 115px;
-  object-fit: cover;
+  object-fit: contain;
+  background: #eef4f8;
   border-radius: 8px;
 }
 
